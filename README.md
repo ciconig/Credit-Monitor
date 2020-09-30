@@ -1,5 +1,5 @@
 # Credit-Monitor
-Webscraping for bank regulatory information 
+Webscrapping financial data for Chilean banks
 
 In this project, the objective is to automatizate a process that consist in download data from a source with financial information, monthly.
 
